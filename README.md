@@ -1,4 +1,4 @@
-# S3 seectel example
+# S3 selectel example
 
 This repository contains example of how to use selectel S3 storage with `aws sdk go v2`
 
